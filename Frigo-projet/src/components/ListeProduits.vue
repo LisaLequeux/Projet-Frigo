@@ -1,5 +1,5 @@
 <script setup>
-import Produit from "../produit";
+import Produit from "../Produit";
 import ProduitsPossibles from "./ProduitsPossibles.vue" ;
 import AjouterProduit from "./AjouterProduit.vue";
 import RechercherProduit from "./RechercherProduit.vue";

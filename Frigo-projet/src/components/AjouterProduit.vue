@@ -1,5 +1,4 @@
-<script>
-import Produit from '@/produit';
+<script setup>
 import { defineEmits } from 'vue';
 
 const emit = defineEmits(["add"]);

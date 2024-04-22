@@ -7,9 +7,9 @@ import ListeProduits from "./components/ListeProduits.vue";
 <div class="all">
   <Entete/>
   <ListeProduits/>
-  
 </div>
 </template>
+
 
 <style scoped>
 .all{
